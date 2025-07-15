@@ -3,7 +3,7 @@ R scripts can be rendered!
 Reason
 2025-07-14
 
-some update from a branch
+some update from a branch x 2
 
 Here’s some prose in a very special comment. Let’s summarize the
 built-in dataset `VADeaths`.
